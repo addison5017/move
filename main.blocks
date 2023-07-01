@@ -10,16 +10,16 @@
         # . # . # 
         . # # # . 
         . . # . .
-        `</field><next><block type="mbit_CarCtrl" id="k/n:xLg];bPzCj:{Xdqt"><field name="index">mbit_小車類.CarState.Car_Left</field><next><block type="device_show_leds" id=")N(7FOW:2N85k%zu1_~1"><field name="LEDS">`
+        `</field><next><block type="device_pause" id="`=D!7ArM*{e^T~(%B.2j"><value name="pause"><shadow type="timePicker" id="zWEYM^fjH)_tS|gZ;#tI"><field name="ms">1000</field></shadow></value><next><block type="mbit_CarCtrl" id="k/n:xLg];bPzCj:{Xdqt"><field name="index">mbit_小車類.CarState.Car_Left</field><next><block type="device_show_leds" id=")N(7FOW:2N85k%zu1_~1"><field name="LEDS">`
         . . # . . 
         . . . # . 
         # # # # # 
         . . . # . 
         . . # . .
-        `</field><next><block type="mbit_CarCtrl" id="wfBzjjr*$*-9!95*x%pp"><field name="index">mbit_小車類.CarState.Car_Right</field><next><block type="device_show_leds" id="OP2]-%M0#gUV;d/]pek@"><field name="LEDS">`
+        `</field><next><block type="device_pause" id="15_i*D6+~UT/hG=uQ2gt"><value name="pause"><shadow type="timePicker" id="UVh4hOjb=%@5BWf!dWw/"><field name="ms">1000</field></shadow></value><next><block type="mbit_CarCtrl" id="wfBzjjr*$*-9!95*x%pp"><field name="index">mbit_小車類.CarState.Car_Right</field><next><block type="device_show_leds" id="OP2]-%M0#gUV;d/]pek@"><field name="LEDS">`
         . . # . . 
         . # . . . 
         # # # # # 
         . # . . . 
         . . # . .
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="[{;{YU{%kIooe8kuWHrs"><value name="pause"><shadow type="timePicker" id="fjlX$We!ikDRB0@@Fm:z"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>

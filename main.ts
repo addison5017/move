@@ -16,6 +16,7 @@ basic.forever(function () {
         . # # # .
         . . # . .
         `)
+    basic.pause(1000)
     mbit_小車類.CarCtrl(mbit_小車類.CarState.Car_Left)
     basic.showLeds(`
         . . # . .
@@ -24,6 +25,7 @@ basic.forever(function () {
         . . . # .
         . . # . .
         `)
+    basic.pause(1000)
     mbit_小車類.CarCtrl(mbit_小車類.CarState.Car_Right)
     basic.showLeds(`
         . . # . .
@@ -32,4 +34,5 @@ basic.forever(function () {
         . # . . .
         . . # . .
         `)
+    basic.pause(1000)
 })
