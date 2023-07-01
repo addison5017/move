@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="J/@nZn`h!@*_(lljX.)|" x="0" y="0"></block><block type="device_forever" id="44h=2*Ce#M|,Vqj)BcDc" x="-1" y="138"><statement name="HANDLER"><block type="mbit_CarCtrl" id="h$?)fUxna=D[F?a9%BUr"><field name="index">mbit_小車類.CarState.Car_Run</field><next><block type="device_show_leds" id="!r}[7y)|]CPtHF;#Cm{o"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="zAi.SFDM^wmnMrW?0caB"><value name="pause"><shadow type="timePicker" id="vq/,oeDstai!UL^!bnU7"><field name="ms">1000</field></shadow></value><next><block type="mbit_CarCtrl" id="Ey^8~{kL7b(SJgT*wY*("><field name="index">mbit_小車類.CarState.Car_Back</field><next><block type="device_show_leds" id="Tx~@avsuqAR-hB)zdSH%"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="mbit_CarCtrl" id="k/n:xLg];bPzCj:{Xdqt"><field name="index">mbit_小車類.CarState.Car_Left</field><next><block type="device_show_leds" id=")N(7FOW:2N85k%zu1_~1"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="mbit_CarCtrl" id="wfBzjjr*$*-9!95*x%pp"><field name="index">mbit_小車類.CarState.Car_Right</field><next><block type="device_show_leds" id="OP2]-%M0#gUV;d/]pek@"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
